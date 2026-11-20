@@ -84,6 +84,7 @@ h1 {
 .github    { --c1: #24292f; --c2: #6e5494; }
 .email     { --c1: #ff6fb1; --c2: #8f7bff; }
 .phone     { --c1: #ffa45b; --c2: #ffd66b; color: #2b1b5c; }
+.pay       { --c1: #00c853; --c2: #64dd17; }
 
 .save {
   display: inline-block;
